@@ -5,7 +5,7 @@ define('DB_PORT', '3306');
 define('DB_NAME', 'u890821488_calculo');
 define('DB_USER', 'u890821488_calculo');
 define('DB_PASS', 'Calculo-vic-1968');
-define('DB_URL', 'mysql://calculo:calculo-vic-1968@painel.ensinoplus.com.br:33060/calculo');
+define('DB_URL', 'mysql://calculo:calculo-vic-1968@calculo.ensinoplus.com.br:33060/calculo');
 
 // Função para conectar ao banco de dados
 function connectDB() {
